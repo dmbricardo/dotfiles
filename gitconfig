@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = david.ricardo.1991@gmail.com
+	name = davidricardo
